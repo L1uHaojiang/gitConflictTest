@@ -6,3 +6,4 @@ branch 1;
 test checkout from my-branch and what goes on in github
 
 branch 1;
+branch 2;
